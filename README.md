@@ -1,12 +1,12 @@
 
-## Juggernaut - Realdoc Document (ECM) Micro Service  
+# Juggernaut - Realdoc Document (ECM) Micro Service  
 
 Juggernaut (ECM Microservice) provides RESTful endpoints for performing document lifecycle actions such as creation, metadata-modification, version management, states, etc to Realdoc Vault documents.
 
-§ For changes and known-issues refer to `release-notes.txt'
-§ For deployment details refer to `HOWTO.txt'
+§ For changes and known-issues refer to `release-notes.txt'.
+§ For deployment details refer to `HOWTO.txt'.
 
-# RESTful Endpoints:
+## RESTful Endpoints:
     +-------------------------------+--------+----------------------------------+------------------+---------+
     | API                           | Method | Consumes                         | Produces         | Status  |
     +-------------------------------+--------+----------------------------------+------------------+---------+
